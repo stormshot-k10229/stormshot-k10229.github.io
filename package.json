@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "hugo-extended --minify --cleanDestinationDir",
+    "hugo": "hugo-extended",
+    "serve": "hugo-extended server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
