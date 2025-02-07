@@ -1,10 +1,16 @@
 baseURL: /
 languageCode: en-us
-title: Stormshot Kingdom 10229
+defaultContentLanguage: en
+language:
+  - en
+title: Kingdom 10229
+enableGitInfo: true
 
-params:
-  since: 2022
-  year: 2025
+Params:
+  subtitle: "A website for the complete Kingdom 10229 of Stormshot"
+  since: 2025
+  dateFormat: "2006-01-02"
+  commit: false
 
 module:
   imports:
