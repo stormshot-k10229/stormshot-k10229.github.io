@@ -49,17 +49,8 @@ We, the leaders of the signing alliances in the kingdom 10229 have read and agre
 
 Any changes to this agreement require a vote of the delegates in the corresponding agreement working group. For the changes to be accepted, at least 2/3 of the alliances must agree. The published version will then be updated and will be in effect immediately or with the defined due date.
 
-## Signatures
-
-*Info: Putting a signature here implies the alliance accepts the terms written. So, this is the very last step of the agreement process.*
-
-| Player | Alliance | Sign Date |
-|--------|----------|-----------|
-|        |          |           |
-|        |          |           |
-
 ## Changelog
 
 | Date             | Version          | Changes         |
 |------------------|------------------|-----------------|
-| not yet finished | not yet finished | Initial version |
+| 2015-02-06 | 1.0 | Initial version |
