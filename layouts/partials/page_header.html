@@ -1,0 +1,12 @@
+{{ if ne .Language.Lang "en" }}
+    <div class="warning-box-translation">
+        <div class="title">{{ i18n "languageWarnTitle" }}</div>
+        <div class="en-text">
+            This is just a translated version of the original page.
+            Please note that the original page in English is the source of truth.
+        </div>
+        <div class="native-text">
+            {{ i18n "languageWarn" }}
+        </div>
+    </div>
+{{ end }}
