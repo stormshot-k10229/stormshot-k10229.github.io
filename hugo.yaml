@@ -1,8 +1,10 @@
 baseURL: /
 languageCode: en-us
 defaultContentLanguage: en
-language:
-  - en
+defaultContentLanguageInSubdir: true
+languages:
+  en: {}
+  fr: {}
 title: Stormshot - Kingdom 10229
 # enableGitInfo: true
 
