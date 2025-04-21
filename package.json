@@ -21,5 +21,8 @@
   "homepage": "https://github.com/stormshot-k10229/stormshot-k10229.github.io#readme",
   "dependencies": {
     "hugo-extended": "^0.143.1"
+  },
+  "devDependencies": {
+    "sass-embedded": "^1.86.3"
   }
 }

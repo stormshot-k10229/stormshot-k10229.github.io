@@ -1,0 +1,12 @@
+{{ with resources.Get "css/stormshot.scss" }}
+    {{ $opts := (dict
+        "outputStyle" "compressed"
+        "enableSourceMap" hugo.IsDevelopment
+        "transpiler" "dartsass"
+        ) }}
+    {{ $css := . | css.Sass $opts }}
+    {{ if hugo.IsProduction }}
+        {{ $css := $css | minify | fingerprint }}
+    {{ end }}
+    <link rel="stylesheet" href="{{ $css.Permalink }}">
+{{ end }}
