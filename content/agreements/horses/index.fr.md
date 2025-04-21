@@ -9,11 +9,6 @@ summary: |
 
 ![Screenshot of some horses](Horses.png)
 
-::: warn
-Ce texte a été traduit à l'aide de moteurs de traduction automatique. En cas de doute, consulte la version originale en anglais.
-
-:::
-
 ## Définitions
 
 **Les alliances ou alliances signataires** sont les alliances du royaume 10229 qui représentent les alliances les mieux placées du royaume 10229.
