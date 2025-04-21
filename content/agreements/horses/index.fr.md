@@ -1,10 +1,10 @@
 ---
 date: '2025-02-07T22:14:23+01:00'
 draft: false
-title: 'Lost Revenants - Horses'
+title: 'Revenants perdus - Chevaux'
 summary: |
-    This agreement describes what is allowed in the lost revenant event.
-    Some targets are free for anyone to hunt while others are not.
+    Cet accord décrit ce qui est autorisé dans le cadre de l'événement « Lost Revenant ».
+    Certaines cibles peuvent être chassées par tout le monde, d'autres non.
 ---
 
 ![Screenshot of some horses](Horses.png)

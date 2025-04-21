@@ -5,10 +5,10 @@ defaultContentLanguageInSubdir: true
 languages:
   en: {}
   # de: {}
-  # it: {}
+  it: {}
   # jp: {}
   fr: {}
-  # ru: {}
+  ru: {}
 title: Stormshot - Kingdom 10229
 # enableGitInfo: true
 

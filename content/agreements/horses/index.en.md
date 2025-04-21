@@ -26,7 +26,7 @@ The **horses** are the targets in the event "Lost Revenants". The players and al
 
 Single players can **solo** the horses (aka kill them in a direct attack) or **rally** them together with other alliance members.
 
-**Private messages (PMs)** are in-game messages between the players.
+**Private messages** (**PMs**) are in-game messages between the players.
 
 Any player can send a **spy** to the strongholds of the players of foreign alliances. This is called **spying** on the player.
 
@@ -51,6 +51,7 @@ Any changes to this agreement require a vote of the delegates in the correspondi
 
 ## Changelog
 
-| Date             | Version          | Changes         |
-|------------------|------------------|-----------------|
-| 2015-02-06 | 1.0 | Initial version |
+| Date       | Version | Changes                  |
+|------------|---------|--------------------------|
+| 2025-02-06 | 1.0     | Initial version          |
+| 2025-02-09 | 1.0.1   | Added French translation |
