@@ -45,7 +45,7 @@ Any player can send a **spy** to the strongholds of the players of foreign allia
       1. Once an alliance proclaims to do rallies, no player from either alliance should do solos. So, all players (also from the proclaiming alliance) are bound to rally-only playing.
    1. Horses in the levels 1 through 7 can be killed arbitrarily.
       1. Both solo and rallies are allowed.
-      1. However, for fair playing, the restrictions in 2.1 for higher-leveled horses should be obeyed on a voluntary basis for the lower-leveled horses as well.
+      1. However, for fair playing, the restrictions for higher-leveled horses of level 8/9 should be obeyed on a voluntary basis for the lower-leveled horses as well.
 
 ## Final acknowledgement
 
