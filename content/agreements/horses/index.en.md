@@ -35,7 +35,7 @@ Any player can send a **spy** to the strongholds of the players of foreign allia
 1. Killing of horses outside the dark forest is not restricted. Any player or alliance can kill them (solo or rally is allowed).
    1. Taking horses from other alliances' territory is allowed.
 1. The event is separated into solo and rally days.
-   Solo days are Friday 0:00 to 23:59 UTC.
+   Solo days are Saturday 0:00 to 23:59 UTC.
    All other days are rally days.
 1. On solo days, no additional restrictions are in place (also for the dark forest) and anyone can kill any horse.
 1. Inside the forest, additional restrictions are in effect on rally days.
