@@ -26,7 +26,8 @@ markup:
   goldmark:
     renderHooks:
       image:
-        enableDefault: true
+        #enableDefault: true
+        useEmbedded: fallback
 
 module:
   imports:
