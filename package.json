@@ -20,9 +20,17 @@
   },
   "homepage": "https://github.com/stormshot-k10229/stormshot-k10229.github.io#readme",
   "dependencies": {
-    "hugo-extended": "^0.143.1"
+    "hugo-extended": "^0.155.3"
   },
   "devDependencies": {
     "sass-embedded": "^1.86.3"
+  },
+  "overrides": {
+    "sass-embedded-all-unknown": "0.0.0-masked"
+  },
+  "optionalDependencies": {
+    "sass-embedded-linux-musl-x64": "^1.97.3",
+    "sass-embedded-linux-x64": "^1.97.3",
+    "sass-embedded-win32-x64": "^1.97.3"
   }
 }

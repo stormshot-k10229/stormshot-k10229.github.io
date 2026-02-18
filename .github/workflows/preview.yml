@@ -24,6 +24,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v6.2.0
+        with:
+          node-version: 24
     
       - name: Get URL of pages
         env:
@@ -36,13 +40,28 @@ jobs:
             echo EOF
           } >> "$GITHUB_OUTPUT"
 
-      - name: Install and Build
+      - name: Install dependencies
         if: github.event.action != 'closed' # You might want to skip the build if the PR has been closed
         run: |
-          npm install
+          npm ci
+
+      - name: List installed packages
+        if: github.event.action != 'closed' # You might want to skip the build if the PR has been closed
+        run: |
+          npm list --depth 1
+      
+      - name: List installed scripts
+        if: github.event.action != 'closed' # You might want to skip the build if the PR has been closed
+        run: |
+          ls -l node_modules/.bin
+
+      - name: Build preview
+        if: github.event.action != 'closed' # You might want to skip the build if the PR has been closed
+        run: |
           echo "Using base URL ${{ steps.url.outputs.URL }}"
           npm run build -- \
             --baseURL "${{ steps.url.outputs.URL }}/pr-preview/pr-${{ github.event.number }}"
+          rm -f public/.nojekyll
 
       - name: Deploy preview
         uses: rossjrw/pr-preview-action@v1
