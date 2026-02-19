@@ -1,0 +1,278 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2026-02-19 19:45+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/_index.en.md:1
+#, no-wrap
+msgid "Home"
+msgstr ""
+
+#. type: Plain text
+#: content/_index.en.md:12
+#, markdown-text
+msgid "Welcom to the page of the kingdom 10229!"
+msgstr ""
+
+#. type: Plain text
+#: content/_index.en.md:15
+#, markdown-text
+msgid ""
+"On this site, we want to publish information about our kingdom that should "
+"be availabe to everyone.  This can be for example agreements between the "
+"alliances that were negotiated."
+msgstr ""
+
+#. type: Plain text
+#: content/_index.en.md:19
+#, markdown-text
+msgid ""
+"This complete page is hosted on "
+"[GitHub](https://github.com/stormshot-k10229/stormshot-k10229.github.io).  "
+"If you find error or other problems, feel free to come there to report.  The "
+"content of the page is to be found in the [content "
+"folder](https://github.com/stormshot-k10229/stormshot-k10229.github.io/tree/main/content).  "
+"If you want to help with translation, feel free to come forward."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: summary
+#: content/agreements/horses/index.en.md:1
+#, no-wrap
+msgid ""
+"This agreement describes what is allowed in the lost revenant event.\n"
+"Some targets are free for anyone to hunt while others are not.\n"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/agreements/horses/index.en.md:1
+#, no-wrap
+msgid "Lost Revenants - Horses"
+msgstr ""
+
+#. type: Plain text
+#: content/agreements/horses/index.en.md:11
+#, markdown-text
+msgid "![Screenshot of some horses](Horses.png)"
+msgstr ""
+
+#. type: Title ##
+#: content/agreements/horses/index.en.md:12
+#, markdown-text, no-wrap
+msgid "Definitions"
+msgstr ""
+
+#. type: Plain text
+#: content/agreements/horses/index.en.md:15
+#, markdown-text, no-wrap
+msgid ""
+"**Alliances** or **signing alliances** are these alliances in kingdom 10229 "
+"that represent the TOP-placed alliances of the kingdom 10229.\n"
+msgstr ""
+
+#. type: Bullet: '- '
+#: content/agreements/horses/index.en.md:18
+#, markdown-text
+msgid ""
+"The number of referenced alliances is defined by the non-attack agreement "
+"(NAP)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: content/agreements/horses/index.en.md:18
+#, markdown-text
+msgid "All leaders of the signing alliances have to sign the agreement."
+msgstr ""
+
+#. type: Plain text
+#: content/agreements/horses/index.en.md:20
+#, markdown-text, no-wrap
+msgid ""
+"**Affiliated alliances** are those farm alliances associated with one of the "
+"main signing alliances of this agreement.\n"
+msgstr ""
+
+#. type: Plain text
+#: content/agreements/horses/index.en.md:22
+#, markdown-text, no-wrap
+msgid ""
+"**Players** represent any member of one of the alliances or of either of "
+"their affiliated alliances. There is no further distinction between players, "
+"be it by signing or affiliated alliances.\n"
+msgstr ""
+
+#. type: Plain text
+#: content/agreements/horses/index.en.md:24
+#, markdown-text
+msgid ""
+"The **dark forest** is the blue area in the middle of the map, containing "
+"the citadel in its center."
+msgstr ""
+
+#. type: Plain text
+#: content/agreements/horses/index.en.md:26
+#, markdown-text
+msgid ""
+"The **horses** are the targets in the event \"Lost Revenants\". The players "
+"and alliances must kill the horses in order to gain points and rewards."
+msgstr ""
+
+#. type: Plain text
+#: content/agreements/horses/index.en.md:28
+#, markdown-text
+msgid ""
+"Single players can **solo** the horses (aka kill them in a direct attack) or "
+"**rally** them together with other alliance members."
+msgstr ""
+
+#. type: Plain text
+#: content/agreements/horses/index.en.md:30
+#, markdown-text, no-wrap
+msgid "**Private messages** (**PMs**) are in-game messages between the players.\n"
+msgstr ""
+
+#. type: Plain text
+#: content/agreements/horses/index.en.md:32
+#, markdown-text
+msgid ""
+"Any player can send a **spy** to the strongholds of the players of foreign "
+"alliances. This is called **spying** on the player."
+msgstr ""
+
+#. type: Title ##
+#: content/agreements/horses/index.en.md:33
+#, markdown-text, no-wrap
+msgid "Claims"
+msgstr ""
+
+#. type: Bullet: '1. '
+#: content/agreements/horses/index.en.md:45
+#, markdown-text
+msgid ""
+"Killing of horses outside the dark forest is not restricted. Any player or "
+"alliance can kill them (solo or rally is allowed)."
+msgstr ""
+
+#. type: Bullet: '   1. '
+#: content/agreements/horses/index.en.md:45
+#, markdown-text
+msgid "Taking horses from other alliances' territory is allowed."
+msgstr ""
+
+#. type: Bullet: '1. '
+#: content/agreements/horses/index.en.md:45
+#, markdown-text
+msgid "Inside the forest, additional restrictions are in effect."
+msgstr ""
+
+#. type: Bullet: '   1. '
+#: content/agreements/horses/index.en.md:45
+#, markdown-text
+msgid "Horses in the levels 8 and 9 are reserved for rallies by the alliances."
+msgstr ""
+
+#. type: Bullet: '      1. '
+#: content/agreements/horses/index.en.md:45
+#, markdown-text
+msgid ""
+"Solo kills should be avoided and only done in time slots of low playing "
+"activity in the kingdom."
+msgstr ""
+
+#. type: Bullet: '      1. '
+#: content/agreements/horses/index.en.md:45
+#, markdown-text
+msgid ""
+"If an alliance wants to run rallies against the horses, all solo efforts are "
+"to be stopped immediately. To notify of the intention to run rallies, the "
+"alliance should post PMs to any players doing solos. Additionally, the rally "
+"leader might send a spy to the stronghold of the player doing solos to make "
+"the window flash red."
+msgstr ""
+
+#. type: Bullet: '      1. '
+#: content/agreements/horses/index.en.md:45
+#, markdown-text
+msgid ""
+"Once an alliance proclaims to do rallies, no player from either alliance "
+"should do solos. So, all players (also from the proclaiming alliance) are "
+"bound to rally-only playing."
+msgstr ""
+
+#. type: Bullet: '   1. '
+#: content/agreements/horses/index.en.md:45
+#, markdown-text
+msgid "Horses in the levels 1 through 7 can be killed arbitrarily."
+msgstr ""
+
+#. type: Bullet: '      1. '
+#: content/agreements/horses/index.en.md:45
+#, markdown-text
+msgid "Both solo and rallies are allowed."
+msgstr ""
+
+#. type: Bullet: '      1. '
+#: content/agreements/horses/index.en.md:45
+#, markdown-text
+msgid ""
+"However, for fair playing, the restrictions in 2.1 for higher-leveled horses "
+"should be obeyed on a voluntary basis for the lower-leveled horses as well."
+msgstr ""
+
+#. type: Title ##
+#: content/agreements/horses/index.en.md:46
+#, markdown-text, no-wrap
+msgid "Final acknowledgement"
+msgstr ""
+
+#. type: Plain text
+#: content/agreements/horses/index.en.md:49
+#, markdown-text
+msgid ""
+"We, the leaders of the signing alliances in the kingdom 10229 have read and "
+"agreed to the terms above. We hereby bind our alliances and affiliated "
+"alliances to obey the rules and restrictions imposed. We will inform the "
+"members of our alliances as well as the leaders and members of our "
+"affiliated alliances about the agreement. Further, we will encourage our "
+"members to look at the published version of the agreement at regular "
+"intervals to keep them informed."
+msgstr ""
+
+#. type: Plain text
+#: content/agreements/horses/index.en.md:51
+#, markdown-text
+msgid ""
+"Any changes to this agreement require a vote of the delegates in the "
+"corresponding agreement working group. For the changes to be accepted, at "
+"least 2/3 of the alliances must agree. The published version will then be "
+"updated and will be in effect immediately or with the defined due date."
+msgstr ""
+
+#. type: Title ##
+#: content/agreements/horses/index.en.md:52
+#, markdown-text, no-wrap
+msgid "Changelog"
+msgstr ""
+
+#. type: Plain text
+#: content/agreements/horses/index.en.md:57
+#, markdown-text, no-wrap
+msgid ""
+"| Date       | Version | Changes                  |\n"
+"|------------|---------|--------------------------|\n"
+"| 2025-02-06 | 1.0     | Initial version          |\n"
+"| 2025-02-09 | 1.0.1   | Added French translation |\n"
+msgstr ""
