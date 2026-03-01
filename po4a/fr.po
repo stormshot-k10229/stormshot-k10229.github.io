@@ -104,7 +104,7 @@ msgid ""
 "**Players** represent any member of one of the alliances or of either of "
 "their affiliated alliances. There is no further distinction between players, "
 "be it by signing or affiliated alliances.\n"
-msgstr "Les **joueurs** représentent tout membre de l'une des alliances ou de l'une de leurs alliances affiliées. Il n'y a pas d'autre distinction entre les joueurs, qu'il s'agisse de la signature ou des alliances affiliées."
+msgstr "Les **joueurs** représentent tout membre de l'une des alliances ou de l'une de leurs alliances affiliées. Il n'y a pas d'autre distinction entre les joueurs, qu'il s'agisse de la signature ou des alliances affiliées.\n"
 
 #. type: Plain text
 #: content/agreements/horses/index.en.md:24
@@ -134,7 +134,7 @@ msgstr "Les joueurs individuels peuvent **solo** les chevaux (c'est-à-dire les 
 #: content/agreements/horses/index.en.md:30
 #, markdown-text, no-wrap
 msgid "**Private messages** (**PMs**) are in-game messages between the players.\n"
-msgstr "Les **messages privés (MP)** sont des messages en jeu entre les joueurs."
+msgstr "Les **messages privés (MP)** sont des messages en jeu entre les joueurs.\n"
 
 #. type: Plain text
 #: content/agreements/horses/index.en.md:32
