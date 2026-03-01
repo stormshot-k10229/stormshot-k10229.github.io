@@ -18,4 +18,3 @@ Si vous trouvez des erreurs ou d'autres problèmes, n'hésitez pas à venir les 
 Le contenu de la page se trouve dans le [dossier contenu](https://github.com/stormshot-k10229/stormshot-k10229.github.io/tree/main/content).
 Si vous voulez aider à la traduction, n'hésitez pas à vous manifester.
 
-Traduit avec DeepL.com (version gratuite)
