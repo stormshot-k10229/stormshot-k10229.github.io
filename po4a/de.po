@@ -3,19 +3,19 @@
 # This file is distributed under the same license as the PACKAGE package.
 # christian <github@christianwolf.email>, 2026.
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2026-02-19 19:45+0100\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: Automatically generated\nLanguage-Team: none\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2026-02-19 19:45+0100\nPO-Revision-Date: 2026-03-01 19:28+0000\nLast-Translator: christian <github@christianwolf.email>\nLanguage-Team: German <https://weblate.christian-wolf.click/projects/stormshot-kingdom-10229/homapage-fork/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.16\n"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.en.md:1
 #, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #. type: Plain text
 #: content/_index.en.md:12
 #, markdown-text
 msgid "Welcom to the page of the kingdom 10229!"
-msgstr ""
+msgstr "Willkommen auf der Seite des Königreichs 10229!"
 
 #. type: Plain text
 #: content/_index.en.md:15
