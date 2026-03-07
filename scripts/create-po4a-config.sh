@@ -33,7 +33,7 @@ create_config() {
 # [type: markdown] content/agreements/horses/index.en.md $lang:content/agreements/horses/index.$lang.md
 
 EOF
-    find content -name '*.md' | grep -E '(\.??)\.md$' | while read line
+    find content -name '*.md' | grep -E '(\.??)\.md$' | sort | while read line
     do
         if echo "$line" | grep -E '\.en\.md$' > /dev/null
         then
