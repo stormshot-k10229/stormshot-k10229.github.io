@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-03-07 20:01+0100\n"
+"POT-Creation-Date: 2026-03-07 20:05+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,36 +18,15 @@ msgstr ""
 
 #. type: Hash Value: languageWarn
 #: i18n/en.yml:1
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "This text was translated with the help of machine translation engines. In case of doubt, consult the original English version."
 msgstr "Ce texte a été traduit à l'aide de moteurs de traduction automatique. En cas de doute, consulte la version originale en anglais."
 
 #. type: Hash Value: languageWarnTitle
 #: i18n/en.yml:1
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Attention"
 msgstr "Attention"
-
-#. type: Yaml Front Matter Hash Value: title
-#: content/agreements/_index.en.md:1
-#, fuzzy, no-wrap
-msgid "Agreements"
-msgstr "Accords"
-
-#. type: Plain text
-#: content/agreements/_index.en.md:12
-#, fuzzy
-msgid "In this section all known and well-writen agreements are collected."
-msgstr ""
-"Dans cette section, tous les accords connus et bien rédigés sont rassemblés."
-
-#. type: Plain text
-#: content/agreements/_index.en.md:13
-#, fuzzy
-msgid "You should check regularly for updates as the agreements might change."
-msgstr ""
-"Il est conseillé de vérifier régulièrement les mises à jour, car les accords "
-"peuvent changer."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.en.md:1
@@ -334,3 +313,20 @@ msgid ""
 "| 2025-02-06 | 1.0     | Initial version          |\n"
 "| 2025-02-09 | 1.0.1   | Added French translation |\n"
 msgstr ""
+
+#, fuzzy, no-wrap
+#~ msgid "Agreements"
+#~ msgstr "Accords"
+
+#, fuzzy
+#~ msgid "In this section all known and well-writen agreements are collected."
+#~ msgstr ""
+#~ "Dans cette section, tous les accords connus et bien rédigés sont "
+#~ "rassemblés."
+
+#, fuzzy
+#~ msgid ""
+#~ "You should check regularly for updates as the agreements might change."
+#~ msgstr ""
+#~ "Il est conseillé de vérifier régulièrement les mises à jour, car les "
+#~ "accords peuvent changer."
