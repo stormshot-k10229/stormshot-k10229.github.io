@@ -34,14 +34,14 @@ Ogni giocatore può inviare una spia alle roccaforti dei giocatori delle alleanz
 
 1. L'uccisione di cavalli al di fuori della foresta oscura non è limitata. Qualsiasi giocatore o alleanza può ucciderli (è consentito l'assolo o il raduno). 
    1. Prendere cavalli dal territorio di altre alleanze è consentito.
-2. All'interno della foresta sono in vigore ulteriori restrizioni. 
+1. All'interno della foresta sono in vigore ulteriori restrizioni. 
    1. I cavalli dei livelli 8 e 9 sono riservati ai raduni delle alleanze. 
       1. Le uccisioni in solitaria devono essere evitate e fatte solo in fasce orarie di scarsa attività di gioco nel regno.
-      2. Se un'alleanza vuole fare dei raduni contro i cavalli, tutti gli sforzi in solitaria devono essere interrotti immediatamente. Per notificare l'intenzione di fare dei raduni, l'alleanza dovrebbe inviare dei PM a tutti i giocatori che stanno facendo degli assoli. Inoltre, il leader del raduno può inviare una spia alla roccaforte del giocatore che sta facendo un assolo per far lampeggiare la finestra in rosso.
-      3. Una volta che un'alleanza proclama di fare raduni, nessun giocatore di nessuna delle due alleanze deve fare assoli. Quindi, tutti i giocatori (anche quelli dell'alleanza che proclama) sono obbligati a giocare solo i raduni.
-   2. I cavalli nei livelli da 1 a 7 possono essere uccisi arbitrariamente. 
+      1. Se un'alleanza vuole fare dei raduni contro i cavalli, tutti gli sforzi in solitaria devono essere interrotti immediatamente. Per notificare l'intenzione di fare dei raduni, l'alleanza dovrebbe inviare dei PM a tutti i giocatori che stanno facendo degli assoli. Inoltre, il leader del raduno può inviare una spia alla roccaforte del giocatore che sta facendo un assolo per far lampeggiare la finestra in rosso.
+      1. Una volta che un'alleanza proclama di fare raduni, nessun giocatore di nessuna delle due alleanze deve fare assoli. Quindi, tutti i giocatori (anche quelli dell'alleanza che proclama) sono obbligati a giocare solo i raduni.
+   1. I cavalli nei livelli da 1 a 7 possono essere uccisi arbitrariamente. 
       1. Sono consentiti sia gli assoli che i raduni.
-      2. Tuttavia, per un gioco corretto, le restrizioni di cui al punto 2.1 per i cavalli di livello superiore devono essere rispettate su base volontaria anche per i cavalli di livello inferiore.
+      1. Tuttavia, per un gioco corretto, le restrizioni di cui al punto 2.1 per i cavalli di livello superiore devono essere rispettate su base volontaria anche per i cavalli di livello inferiore.
 
 ## Riconoscimento finale
 
@@ -49,4 +49,9 @@ Noi, leader delle alleanze firmatarie nel regno 10229, abbiamo letto e accettato
 
 Qualsiasi modifica a questo accordo richiede il voto dei delegati del gruppo di lavoro corrispondente. Affinché le modifiche siano accettate, almeno 2/3 delle alleanze devono essere d'accordo. La versione pubblicata sarà quindi aggiornata ed entrerà in vigore immediatamente o con la data di scadenza definita.
 
-Tradotto con DeepL.com (versione gratuita)
+## Changelog
+
+| Date       | Version | Changes                  |
+|------------|---------|--------------------------|
+| 2025-02-06 | 1.0     | Initial version          |
+| 2025-02-09 | 1.0.1   | Added French translation |
