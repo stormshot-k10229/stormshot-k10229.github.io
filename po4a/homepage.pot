@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-19 19:45+0100\n"
+"POT-Creation-Date: 2026-03-07 23:47+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,37 +16,18 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. type: Yaml Front Matter Hash Value: title
-#: content/_index.en.md:1
+#. type: Hash Value: languageWarn
+#: i18n/en.yml:1
 #, no-wrap
-msgid "Home"
-msgstr ""
-
-#. type: Plain text
-#: content/_index.en.md:12
-#, markdown-text
-msgid "Welcom to the page of the kingdom 10229!"
-msgstr ""
-
-#. type: Plain text
-#: content/_index.en.md:15
-#, markdown-text
 msgid ""
-"On this site, we want to publish information about our kingdom that should "
-"be availabe to everyone.  This can be for example agreements between the "
-"alliances that were negotiated."
+"This text was translated with the help of machine translation engines. In "
+"case of doubt, consult the original English version."
 msgstr ""
 
-#. type: Plain text
-#: content/_index.en.md:19
-#, markdown-text
-msgid ""
-"This complete page is hosted on "
-"[GitHub](https://github.com/stormshot-k10229/stormshot-k10229.github.io).  "
-"If you find error or other problems, feel free to come there to report.  The "
-"content of the page is to be found in the [content "
-"folder](https://github.com/stormshot-k10229/stormshot-k10229.github.io/tree/main/content).  "
-"If you want to help with translation, feel free to come forward."
+#. type: Hash Value: languageWarnTitle
+#: i18n/en.yml:1
+#, no-wrap
+msgid "Attention"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: summary
@@ -275,4 +256,55 @@ msgid ""
 "|------------|---------|--------------------------|\n"
 "| 2025-02-06 | 1.0     | Initial version          |\n"
 "| 2025-02-09 | 1.0.1   | Added French translation |\n"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/agreements/_index.en.md:1
+#, no-wrap
+msgid "Agreements"
+msgstr ""
+
+#. type: Plain text
+#: content/agreements/_index.en.md:12
+#, markdown-text
+msgid "In this section all known and well-writen agreements are collected."
+msgstr ""
+
+#. type: Plain text
+#: content/agreements/_index.en.md:13
+#, markdown-text
+msgid "You should check regularly for updates as the agreements might change."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/_index.en.md:1
+#, no-wrap
+msgid "Home"
+msgstr ""
+
+#. type: Plain text
+#: content/_index.en.md:12
+#, markdown-text
+msgid "Welcom to the page of the kingdom 10229!"
+msgstr ""
+
+#. type: Plain text
+#: content/_index.en.md:15
+#, markdown-text
+msgid ""
+"On this site, we want to publish information about our kingdom that should "
+"be availabe to everyone.  This can be for example agreements between the "
+"alliances that were negotiated."
+msgstr ""
+
+#. type: Plain text
+#: content/_index.en.md:19
+#, markdown-text
+msgid ""
+"This complete page is hosted on "
+"[GitHub](https://github.com/stormshot-k10229/stormshot-k10229.github.io).  "
+"If you find error or other problems, feel free to come there to report.  The "
+"content of the page is to be found in the [content "
+"folder](https://github.com/stormshot-k10229/stormshot-k10229.github.io/tree/main/content).  "
+"If you want to help with translation, feel free to come forward."
 msgstr ""
