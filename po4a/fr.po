@@ -65,12 +65,8 @@ msgstr "**Les alliances ou alliances signataires** sont les alliances du royaume
 
 #. type: Bullet: '- '
 #: content/agreements/horses/index.en.md:18
-msgid ""
-"The number of referenced alliances is defined by the non-attack agreement "
-"(NAP)"
-msgstr ""
-"Le nombre d'alliances référencées est défini par l'accord de non-attaque "
-"(NAP)"
+msgid "The number of referenced alliances is defined by the non-attack agreement (NAP)"
+msgstr "Le nombre d'alliances référencées est défini par l'accord de non-attaque (NAP)"
 
 #. type: Bullet: '- '
 #: content/agreements/horses/index.en.md:18
@@ -91,32 +87,18 @@ msgstr "Les **joueurs** représentent tout membre de l'une des alliances ou de l
 
 #. type: Plain text
 #: content/agreements/horses/index.en.md:24
-msgid ""
-"The **dark forest** is the blue area in the middle of the map, containing "
-"the citadel in its center."
-msgstr ""
-"La **forêt sombre** est la zone bleue au milieu de la carte, contenant la "
-"citadelle en son centre."
+msgid "The **dark forest** is the blue area in the middle of the map, containing the citadel in its center."
+msgstr "La **forêt sombre** est la zone bleue au milieu de la carte, contenant la citadelle en son centre."
 
 #. type: Plain text
 #: content/agreements/horses/index.en.md:26
-msgid ""
-"The **horses** are the targets in the event \"Lost Revenants\". The players "
-"and alliances must kill the horses in order to gain points and rewards."
-msgstr ""
-"Les **chevaux** sont les cibles de l'événement « Lost Revenants ». Les "
-"joueurs et les alliances doivent tuer les chevaux pour gagner des points et "
-"des récompenses."
+msgid "The **horses** are the targets in the event \"Lost Revenants\". The players and alliances must kill the horses in order to gain points and rewards."
+msgstr "Les **chevaux** sont les cibles de l'événement « Lost Revenants ». Les joueurs et les alliances doivent tuer les chevaux pour gagner des points et des récompenses."
 
 #. type: Plain text
 #: content/agreements/horses/index.en.md:28
-msgid ""
-"Single players can **solo** the horses (aka kill them in a direct attack) or "
-"**rally** them together with other alliance members."
-msgstr ""
-"Les joueurs individuels peuvent **solo** les chevaux (c'est-à-dire les tuer "
-"en les attaquant directement) ou **rally** les chevaux avec d'autres membres "
-"de l'alliance."
+msgid "Single players can **solo** the horses (aka kill them in a direct attack) or **rally** them together with other alliance members."
+msgstr "Les joueurs individuels peuvent **solo** les chevaux (c'est-à-dire les tuer en les attaquant directement) ou **rally** les chevaux avec d'autres membres de l'alliance."
 
 #. type: Plain text
 #: content/agreements/horses/index.en.md:30
@@ -126,12 +108,8 @@ msgstr "Les **messages privés (MP)** sont des messages en jeu entre les joueurs
 
 #. type: Plain text
 #: content/agreements/horses/index.en.md:32
-msgid ""
-"Any player can send a **spy** to the strongholds of the players of foreign "
-"alliances. This is called **spying** on the player."
-msgstr ""
-"Tout joueur peut envoyer un **espion** dans les fiefs des joueurs "
-"d'alliances étrangères. C'est ce qu'on appelle **espionner** le joueur."
+msgid "Any player can send a **spy** to the strongholds of the players of foreign alliances. This is called **spying** on the player."
+msgstr "Tout joueur peut envoyer un **espion** dans les fiefs des joueurs d'alliances étrangères. C'est ce qu'on appelle **espionner** le joueur."
 
 #. type: Title ##
 #: content/agreements/horses/index.en.md:33
@@ -141,12 +119,8 @@ msgstr "Revendications"
 
 #. type: Bullet: '1. '
 #: content/agreements/horses/index.en.md:45
-msgid ""
-"Killing of horses outside the dark forest is not restricted. Any player or "
-"alliance can kill them (solo or rally is allowed)."
-msgstr ""
-"La mise à mort des chevaux en dehors de la forêt noire n'est pas restreinte. "
-"N'importe quel joueur ou alliance peut les tuer (solo ou rallye autorisé)."
+msgid "Killing of horses outside the dark forest is not restricted. Any player or alliance can kill them (solo or rally is allowed)."
+msgstr "La mise à mort des chevaux en dehors de la forêt noire n'est pas restreinte. N'importe quel joueur ou alliance peut les tuer (solo ou rallye autorisé)."
 
 #. type: Bullet: '   1. '
 #: content/agreements/horses/index.en.md:45
@@ -156,51 +130,27 @@ msgstr "Prendre des chevaux sur le territoire d'autres alliances est autorisé."
 #. type: Bullet: '1. '
 #: content/agreements/horses/index.en.md:45
 msgid "Inside the forest, additional restrictions are in effect."
-msgstr ""
-"A l'intérieur de la forêt, des restrictions supplémentaires sont en vigueur."
+msgstr "A l'intérieur de la forêt, des restrictions supplémentaires sont en vigueur."
 
 #. type: Bullet: '   1. '
 #: content/agreements/horses/index.en.md:45
 msgid "Horses in the levels 8 and 9 are reserved for rallies by the alliances."
-msgstr ""
-"Les chevaux des niveaux 8 et 9 sont réservés aux rallyes des alliances."
+msgstr "Les chevaux des niveaux 8 et 9 sont réservés aux rallyes des alliances."
 
 #. type: Bullet: '      1. '
 #: content/agreements/horses/index.en.md:45
-msgid ""
-"Solo kills should be avoided and only done in time slots of low playing "
-"activity in the kingdom."
-msgstr ""
-"Les tueries en solo doivent être évitées et réalisées uniquement dans les "
-"créneaux horaires où l'activité ludique est faible dans le royaume."
+msgid "Solo kills should be avoided and only done in time slots of low playing activity in the kingdom."
+msgstr "Les tueries en solo doivent être évitées et réalisées uniquement dans les créneaux horaires où l'activité ludique est faible dans le royaume."
 
 #. type: Bullet: '      1. '
 #: content/agreements/horses/index.en.md:45
-msgid ""
-"If an alliance wants to run rallies against the horses, all solo efforts are "
-"to be stopped immediately. To notify of the intention to run rallies, the "
-"alliance should post PMs to any players doing solos. Additionally, the rally "
-"leader might send a spy to the stronghold of the player doing solos to make "
-"the window flash red."
-msgstr ""
-"Si une alliance veut organiser des rallyes contre les chevaux, tous les "
-"efforts en solo doivent être arrêtés immédiatement. Pour notifier "
-"l'intention d'organiser des rallyes, l'alliance doit envoyer des MP à tous "
-"les joueurs qui font des solos. De plus, le leader du rallye peut envoyer un "
-"espion dans la forteresse du joueur qui fait des solos pour faire clignoter "
-"la fenêtre en rouge."
+msgid "If an alliance wants to run rallies against the horses, all solo efforts are to be stopped immediately. To notify of the intention to run rallies, the alliance should post PMs to any players doing solos. Additionally, the rally leader might send a spy to the stronghold of the player doing solos to make the window flash red."
+msgstr "Si une alliance veut organiser des rallyes contre les chevaux, tous les efforts en solo doivent être arrêtés immédiatement. Pour notifier l'intention d'organiser des rallyes, l'alliance doit envoyer des MP à tous les joueurs qui font des solos. De plus, le leader du rallye peut envoyer un espion dans la forteresse du joueur qui fait des solos pour faire clignoter la fenêtre en rouge."
 
 #. type: Bullet: '      1. '
 #: content/agreements/horses/index.en.md:45
-msgid ""
-"Once an alliance proclaims to do rallies, no player from either alliance "
-"should do solos. So, all players (also from the proclaiming alliance) are "
-"bound to rally-only playing."
-msgstr ""
-"Une fois qu'une alliance proclame faire des rallyes, aucun joueur de l'une "
-"ou l'autre alliance ne doit faire de solos. Ainsi, tous les joueurs (y "
-"compris ceux de l'alliance qui a proclamé le ralliement) sont obligés de "
-"jouer uniquement des ralliements."
+msgid "Once an alliance proclaims to do rallies, no player from either alliance should do solos. So, all players (also from the proclaiming alliance) are bound to rally-only playing."
+msgstr "Une fois qu'une alliance proclame faire des rallyes, aucun joueur de l'une ou l'autre alliance ne doit faire de solos. Ainsi, tous les joueurs (y compris ceux de l'alliance qui a proclamé le ralliement) sont obligés de jouer uniquement des ralliements."
 
 #. type: Bullet: '   1. '
 #: content/agreements/horses/index.en.md:45
@@ -214,13 +164,8 @@ msgstr "Les solos et les rallyes sont autorisés."
 
 #. type: Bullet: '      1. '
 #: content/agreements/horses/index.en.md:45
-msgid ""
-"However, for fair playing, the restrictions in 2.1 for higher-leveled horses "
-"should be obeyed on a voluntary basis for the lower-leveled horses as well."
-msgstr ""
-"Cependant, pour des raisons de fair-play, les restrictions énoncées au point "
-"2.1 pour les chevaux de niveau supérieur doivent être respectées "
-"volontairement pour les chevaux de niveau inférieur."
+msgid "However, for fair playing, the restrictions in 2.1 for higher-leveled horses should be obeyed on a voluntary basis for the lower-leveled horses as well."
+msgstr "Cependant, pour des raisons de fair-play, les restrictions énoncées au point 2.1 pour les chevaux de niveau supérieur doivent être respectées volontairement pour les chevaux de niveau inférieur."
 
 #. type: Title ##
 #: content/agreements/horses/index.en.md:46
@@ -230,35 +175,13 @@ msgstr "Reconnaissance finale"
 
 #. type: Plain text
 #: content/agreements/horses/index.en.md:49
-msgid ""
-"We, the leaders of the signing alliances in the kingdom 10229 have read and "
-"agreed to the terms above. We hereby bind our alliances and affiliated "
-"alliances to obey the rules and restrictions imposed. We will inform the "
-"members of our alliances as well as the leaders and members of our "
-"affiliated alliances about the agreement. Further, we will encourage our "
-"members to look at the published version of the agreement at regular "
-"intervals to keep them informed."
-msgstr ""
-"Nous, chefs des alliances signataires dans le royaume 10229, avons lu et "
-"accepté les conditions ci-dessus. Par la présente, nous engageons nos "
-"alliances et les alliances affiliées à respecter les règles et les "
-"restrictions imposées. Nous informerons les membres de nos alliances ainsi "
-"que les chefs et les membres de nos alliances affiliées de cet accord. En "
-"outre, nous encouragerons nos membres à consulter régulièrement la version "
-"publiée de l'accord afin de les tenir informés."
+msgid "We, the leaders of the signing alliances in the kingdom 10229 have read and agreed to the terms above. We hereby bind our alliances and affiliated alliances to obey the rules and restrictions imposed. We will inform the members of our alliances as well as the leaders and members of our affiliated alliances about the agreement. Further, we will encourage our members to look at the published version of the agreement at regular intervals to keep them informed."
+msgstr "Nous, chefs des alliances signataires dans le royaume 10229, avons lu et accepté les conditions ci-dessus. Par la présente, nous engageons nos alliances et les alliances affiliées à respecter les règles et les restrictions imposées. Nous informerons les membres de nos alliances ainsi que les chefs et les membres de nos alliances affiliées de cet accord. En outre, nous encouragerons nos membres à consulter régulièrement la version publiée de l'accord afin de les tenir informés."
 
 #. type: Plain text
 #: content/agreements/horses/index.en.md:51
-msgid ""
-"Any changes to this agreement require a vote of the delegates in the "
-"corresponding agreement working group. For the changes to be accepted, at "
-"least 2/3 of the alliances must agree. The published version will then be "
-"updated and will be in effect immediately or with the defined due date."
-msgstr ""
-"Toute modification de cet accord nécessite un vote des délégués du groupe de "
-"travail correspondant. Pour que les changements soient acceptés, au moins "
-"2/3 des alliances doivent être d'accord. La version publiée sera alors mise "
-"à jour et entrera en vigueur immédiatement ou à la date d'échéance définie."
+msgid "Any changes to this agreement require a vote of the delegates in the corresponding agreement working group. For the changes to be accepted, at least 2/3 of the alliances must agree. The published version will then be updated and will be in effect immediately or with the defined due date."
+msgstr "Toute modification de cet accord nécessite un vote des délégués du groupe de travail correspondant. Pour que les changements soient acceptés, au moins 2/3 des alliances doivent être d'accord. La version publiée sera alors mise à jour et entrera en vigueur immédiatement ou à la date d'échéance définie."
 
 #. type: Title ##
 #: content/agreements/horses/index.en.md:52
@@ -285,15 +208,12 @@ msgstr "Accords"
 #. type: Plain text
 #: content/agreements/_index.en.md:12
 msgid "In this section all known and well-writen agreements are collected."
-msgstr ""
-"Dans cette section, tous les accords connus et bien rédigés sont rassemblés."
+msgstr "Dans cette section, tous les accords connus et bien rédigés sont rassemblés."
 
 #. type: Plain text
 #: content/agreements/_index.en.md:13
 msgid "You should check regularly for updates as the agreements might change."
-msgstr ""
-"Il est conseillé de vérifier régulièrement les mises à jour, car les accords "
-"peuvent changer."
+msgstr "Il est conseillé de vérifier régulièrement les mises à jour, car les accords peuvent changer."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.en.md:1
@@ -308,28 +228,10 @@ msgstr "Bienvenue sur la page du royaume 10229 !"
 
 #. type: Plain text
 #: content/_index.en.md:15
-msgid ""
-"On this site, we want to publish information about our kingdom that should "
-"be availabe to everyone.  This can be for example agreements between the "
-"alliances that were negotiated."
-msgstr ""
-"Sur ce site, nous voulons publier des informations sur notre royaume qui "
-"devraient être disponibles pour tout le monde.  Il peut s'agir par exemple "
-"d'accords négociés entre les alliances."
+msgid "On this site, we want to publish information about our kingdom that should be availabe to everyone.  This can be for example agreements between the alliances that were negotiated."
+msgstr "Sur ce site, nous voulons publier des informations sur notre royaume qui devraient être disponibles pour tout le monde.  Il peut s'agir par exemple d'accords négociés entre les alliances."
 
 #. type: Plain text
 #: content/_index.en.md:19
-msgid ""
-"This complete page is hosted on [GitHub](https://github.com/stormshot-k10229/"
-"stormshot-k10229.github.io).  If you find error or other problems, feel free "
-"to come there to report.  The content of the page is to be found in the "
-"[content folder](https://github.com/stormshot-k10229/stormshot-"
-"k10229.github.io/tree/main/content).  If you want to help with translation, "
-"feel free to come forward."
-msgstr ""
-"Cette page complète est hébergée sur [GitHub](https://github.com/stormshot-"
-"k10229/stormshot-k10229.github.io).  Si vous trouvez des erreurs ou d'autres "
-"problèmes, n'hésitez pas à venir les signaler.  Le contenu de la page se "
-"trouve dans le [dossier contenu](https://github.com/stormshot-k10229/"
-"stormshot-k10229.github.io/tree/main/content).  Si vous voulez aider à la "
-"traduction, n'hésitez pas à vous manifester."
+msgid "This complete page is hosted on [GitHub](https://github.com/stormshot-k10229/stormshot-k10229.github.io).  If you find error or other problems, feel free to come there to report.  The content of the page is to be found in the [content folder](https://github.com/stormshot-k10229/stormshot-k10229.github.io/tree/main/content).  If you want to help with translation, feel free to come forward."
+msgstr "Cette page complète est hébergée sur [GitHub](https://github.com/stormshot-k10229/stormshot-k10229.github.io).  Si vous trouvez des erreurs ou d'autres problèmes, n'hésitez pas à venir les signaler.  Le contenu de la page se trouve dans le [dossier contenu](https://github.com/stormshot-k10229/stormshot-k10229.github.io/tree/main/content).  Si vous voulez aider à la traduction, n'hésitez pas à vous manifester."
