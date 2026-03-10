@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2026-03-08 00:04+0100\n"
-"PO-Revision-Date: 2026-03-10 18:20+0100\n"
+"POT-Creation-Date: 2026-03-10 18:30+0100\n"
+"PO-Revision-Date: 2026-03-10 18:34+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: it\n"
@@ -17,58 +17,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.8\n"
 
-#. type: Yaml Front Matter Hash Value: title
-#: content/_index.en.md:1
+#. type: Hash Value: languageWarn
+#: i18n/en.yml:1
 #, no-wrap
-msgid "Home"
-msgstr "Home"
+msgid "This text was translated with the help of machine translation engines. In case of doubt, consult the original English version."
+msgstr "Questo testo è stato tradotto utilizzando motori di traduzione automatica. In caso di dubbi, consulta la versione originale in inglese."
 
-#. type: Plain text
-#: content/_index.en.md:12
-msgid "Welcom to the page of the kingdom 10229!"
-msgstr "Benvenuti nella pagina del regno 10229!"
-
-#. type: Plain text
-#: content/_index.en.md:15
-msgid ""
-"On this site, we want to publish information about our kingdom that should be availabe to "
-"everyone.  This can be for example agreements between the alliances that were negotiated."
-msgstr ""
-"In questo sito vogliamo pubblicare informazioni sul nostro regno che dovrebbero essere "
-"disponibili a tutti.  Ad esempio gli accordi tra le alleanze che sono stati negoziati."
-
-#. type: Plain text
-#: content/_index.en.md:19
-msgid ""
-"This complete page is hosted on [GitHub](https://github.com/stormshot-k10229/stormshot-"
-"k10229.github.io).  If you find error or other problems, feel free to come there to report.  "
-"The content of the page is to be found in the [content folder](https://github.com/stormshot-"
-"k10229/stormshot-k10229.github.io/tree/main/content).  If you want to help with translation, "
-"feel free to come forward."
-msgstr ""
-"Questa pagina completa è ospitata su [GitHub](https://github.com/stormshot-k10229/stormshot-"
-"k10229.github.io).  Se trovate errori o altri problemi, sentitevi liberi di segnalarli.  Il "
-"contenuto della pagina si trova nella [cartella content](https://github.com/stormshot-k10229/"
-"stormshot-k10229.github.io/tree/main/content).  Se volete aiutare con la traduzione, "
-"sentitevi liberi di venire avanti."
-
-#. type: Yaml Front Matter Hash Value: title
-#: content/agreements/_index.en.md:1
+#. type: Hash Value: languageWarnTitle
+#: i18n/en.yml:1
 #, no-wrap
-msgid "Agreements"
-msgstr "Accordi"
-
-#. type: Plain text
-#: content/agreements/_index.en.md:12
-msgid "In this section all known and well-writen agreements are collected."
-msgstr "In questa sezione sono raccolti tutti gli accordi noti e ben scritti."
-
-#. type: Plain text
-#: content/agreements/_index.en.md:13
-msgid "You should check regularly for updates as the agreements might change."
-msgstr ""
-"Si consiglia di controllare regolarmente gli aggiornamenti, poiché gli accordi potrebbero "
-"cambiare."
+msgid "Attention"
+msgstr "Attentione"
 
 #. type: Yaml Front Matter Hash Value: summary
 #: content/agreements/horses/index.en.md:1
@@ -128,30 +87,24 @@ msgstr "I giocatori rappresentano qualsiasi membro di una delle alleanze o di un
 
 #. type: Plain text
 #: content/agreements/horses/index.en.md:24
-msgid ""
-"The **dark forest** is the blue area in the middle of the map, containing the citadel in its "
-"center."
-msgstr ""
-"La foresta oscura è l'area blu al centro della mappa, che contiene la cittadella al suo "
-"centro."
+msgid "The **dark forest** is the blue area in the middle of the map, containing the citadel in its center."
+msgstr "La foresta oscura è l'area blu al centro della mappa, che contiene la cittadella al suo centro."
 
 #. type: Plain text
 #: content/agreements/horses/index.en.md:26
 msgid ""
-"The **horses** are the targets in the event \"Lost Revenants\". The players and alliances "
-"must kill the horses in order to gain points and rewards."
+"The **horses** are the targets in the event \"Lost Revenants\". The players and alliances must kill the horses in order to gain points and "
+"rewards."
 msgstr ""
-"I cavalli sono gli obiettivi dell'evento “Vendicatori perduti”. I giocatori e le alleanze "
-"devono uccidere i cavalli per ottenere punti e ricompense."
+"I cavalli sono gli obiettivi dell'evento “Vendicatori perduti”. I giocatori e le alleanze devono uccidere i cavalli per ottenere punti e "
+"ricompense."
 
 #. type: Plain text
 #: content/agreements/horses/index.en.md:28
-msgid ""
-"Single players can **solo** the horses (aka kill them in a direct attack) or **rally** them "
-"together with other alliance members."
+msgid "Single players can **solo** the horses (aka kill them in a direct attack) or **rally** them together with other alliance members."
 msgstr ""
-"I giocatori singoli possono attaccare i cavalli in solitaria (ovvero uccidendoli con un "
-"attacco diretto) o radunarli insieme ad altri membri dell'alleanza."
+"I giocatori singoli possono attaccare i cavalli in solitaria (ovvero uccidendoli con un attacco diretto) o radunarli insieme ad altri membri "
+"dell'alleanza."
 
 #. type: Plain text
 #: content/agreements/horses/index.en.md:30
@@ -161,12 +114,8 @@ msgstr "I messaggi privati (PM) sono messaggi di gioco tra i giocatori.\n"
 
 #. type: Plain text
 #: content/agreements/horses/index.en.md:32
-msgid ""
-"Any player can send a **spy** to the strongholds of the players of foreign alliances. This "
-"is called **spying** on the player."
-msgstr ""
-"Ogni giocatore può inviare una spia alle roccaforti dei giocatori delle alleanze straniere. "
-"Questo si chiama spiare il giocatore."
+msgid "Any player can send a **spy** to the strongholds of the players of foreign alliances. This is called **spying** on the player."
+msgstr "Ogni giocatore può inviare una spia alle roccaforti dei giocatori delle alleanze straniere. Questo si chiama spiare il giocatore."
 
 #. type: Title ##
 #: content/agreements/horses/index.en.md:33
@@ -176,12 +125,10 @@ msgstr "Rivendicazioni"
 
 #. type: Bullet: '1. '
 #: content/agreements/horses/index.en.md:45
-msgid ""
-"Killing of horses outside the dark forest is not restricted. Any player or alliance can kill "
-"them (solo or rally is allowed)."
+msgid "Killing of horses outside the dark forest is not restricted. Any player or alliance can kill them (solo or rally is allowed)."
 msgstr ""
-"L'uccisione di cavalli al di fuori della foresta oscura non è limitata. Qualsiasi giocatore "
-"o alleanza può ucciderli (è consentito l'assolo o il raduno)."
+"L'uccisione di cavalli al di fuori della foresta oscura non è limitata. Qualsiasi giocatore o alleanza può ucciderli (è consentito l'assolo o "
+"il raduno)."
 
 #. type: Bullet: '   1. '
 #: content/agreements/horses/index.en.md:45
@@ -200,36 +147,28 @@ msgstr "I cavalli dei livelli 8 e 9 sono riservati ai raduni delle alleanze."
 
 #. type: Bullet: '      1. '
 #: content/agreements/horses/index.en.md:45
-msgid ""
-"Solo kills should be avoided and only done in time slots of low playing activity in the "
-"kingdom."
-msgstr ""
-"Le uccisioni in solitaria devono essere evitate e fatte solo in fasce orarie di scarsa "
-"attività di gioco nel regno."
+msgid "Solo kills should be avoided and only done in time slots of low playing activity in the kingdom."
+msgstr "Le uccisioni in solitaria devono essere evitate e fatte solo in fasce orarie di scarsa attività di gioco nel regno."
 
 #. type: Bullet: '      1. '
 #: content/agreements/horses/index.en.md:45
 msgid ""
-"If an alliance wants to run rallies against the horses, all solo efforts are to be stopped "
-"immediately. To notify of the intention to run rallies, the alliance should post PMs to any "
-"players doing solos. Additionally, the rally leader might send a spy to the stronghold of "
-"the player doing solos to make the window flash red."
+"If an alliance wants to run rallies against the horses, all solo efforts are to be stopped immediately. To notify of the intention to run "
+"rallies, the alliance should post PMs to any players doing solos. Additionally, the rally leader might send a spy to the stronghold of the "
+"player doing solos to make the window flash red."
 msgstr ""
-"Se un'alleanza vuole fare dei raduni contro i cavalli, tutti gli sforzi in solitaria devono "
-"essere interrotti immediatamente. Per notificare l'intenzione di fare dei raduni, l'alleanza "
-"dovrebbe inviare dei PM a tutti i giocatori che stanno facendo degli assoli. Inoltre, il "
-"leader del raduno può inviare una spia alla roccaforte del giocatore che sta facendo un "
-"assolo per far lampeggiare la finestra in rosso."
+"Se un'alleanza vuole fare dei raduni contro i cavalli, tutti gli sforzi in solitaria devono essere interrotti immediatamente. Per notificare "
+"l'intenzione di fare dei raduni, l'alleanza dovrebbe inviare dei PM a tutti i giocatori che stanno facendo degli assoli. Inoltre, il leader "
+"del raduno può inviare una spia alla roccaforte del giocatore che sta facendo un assolo per far lampeggiare la finestra in rosso."
 
 #. type: Bullet: '      1. '
 #: content/agreements/horses/index.en.md:45
 msgid ""
-"Once an alliance proclaims to do rallies, no player from either alliance should do solos. "
-"So, all players (also from the proclaiming alliance) are bound to rally-only playing."
+"Once an alliance proclaims to do rallies, no player from either alliance should do solos. So, all players (also from the proclaiming "
+"alliance) are bound to rally-only playing."
 msgstr ""
-"Una volta che un'alleanza proclama di fare raduni, nessun giocatore di nessuna delle due "
-"alleanze deve fare assoli. Quindi, tutti i giocatori (anche quelli dell'alleanza che "
-"proclama) sono obbligati a giocare solo i raduni."
+"Una volta che un'alleanza proclama di fare raduni, nessun giocatore di nessuna delle due alleanze deve fare assoli. Quindi, tutti i giocatori "
+"(anche quelli dell'alleanza che proclama) sono obbligati a giocare solo i raduni."
 
 #. type: Bullet: '   1. '
 #: content/agreements/horses/index.en.md:45
@@ -244,12 +183,11 @@ msgstr "Sono consentiti sia gli assoli che i raduni."
 #. type: Bullet: '      1. '
 #: content/agreements/horses/index.en.md:45
 msgid ""
-"However, for fair playing, the restrictions in 2.1 for higher-leveled horses should be "
-"obeyed on a voluntary basis for the lower-leveled horses as well."
+"However, for fair playing, the restrictions in 2.1 for higher-leveled horses should be obeyed on a voluntary basis for the lower-leveled "
+"horses as well."
 msgstr ""
-"Tuttavia, per un gioco corretto, le restrizioni di cui al punto 2.1 per i cavalli di livello "
-"superiore devono essere rispettate su base volontaria anche per i cavalli di livello "
-"inferiore."
+"Tuttavia, per un gioco corretto, le restrizioni di cui al punto 2.1 per i cavalli di livello superiore devono essere rispettate su base "
+"volontaria anche per i cavalli di livello inferiore."
 
 #. type: Title ##
 #: content/agreements/horses/index.en.md:46
@@ -260,32 +198,26 @@ msgstr "Riconoscimento finale"
 #. type: Plain text
 #: content/agreements/horses/index.en.md:49
 msgid ""
-"We, the leaders of the signing alliances in the kingdom 10229 have read and agreed to the "
-"terms above. We hereby bind our alliances and affiliated alliances to obey the rules and "
-"restrictions imposed. We will inform the members of our alliances as well as the leaders and "
-"members of our affiliated alliances about the agreement. Further, we will encourage our "
-"members to look at the published version of the agreement at regular intervals to keep them "
-"informed."
+"We, the leaders of the signing alliances in the kingdom 10229 have read and agreed to the terms above. We hereby bind our alliances and "
+"affiliated alliances to obey the rules and restrictions imposed. We will inform the members of our alliances as well as the leaders and "
+"members of our affiliated alliances about the agreement. Further, we will encourage our members to look at the published version of the "
+"agreement at regular intervals to keep them informed."
 msgstr ""
-"Noi, leader delle alleanze firmatarie nel regno 10229, abbiamo letto e accettato i termini "
-"di cui sopra. Con la presente vincoliamo le nostre alleanze e le alleanze affiliate a "
-"rispettare le regole e le restrizioni imposte. Informeremo i membri delle nostre alleanze, i "
-"leader e i membri delle alleanze affiliate dell'accordo. Inoltre, incoraggeremo i nostri "
-"membri a consultare la versione pubblicata dell'accordo a intervalli regolari per tenerli "
-"informati."
+"Noi, leader delle alleanze firmatarie nel regno 10229, abbiamo letto e accettato i termini di cui sopra. Con la presente vincoliamo le nostre "
+"alleanze e le alleanze affiliate a rispettare le regole e le restrizioni imposte. Informeremo i membri delle nostre alleanze, i leader e i "
+"membri delle alleanze affiliate dell'accordo. Inoltre, incoraggeremo i nostri membri a consultare la versione pubblicata dell'accordo a "
+"intervalli regolari per tenerli informati."
 
 #. type: Plain text
 #: content/agreements/horses/index.en.md:51
 msgid ""
-"Any changes to this agreement require a vote of the delegates in the corresponding agreement "
-"working group. For the changes to be accepted, at least 2/3 of the alliances must agree. The "
-"published version will then be updated and will be in effect immediately or with the defined "
+"Any changes to this agreement require a vote of the delegates in the corresponding agreement working group. For the changes to be accepted, "
+"at least 2/3 of the alliances must agree. The published version will then be updated and will be in effect immediately or with the defined "
 "due date."
 msgstr ""
-"Qualsiasi modifica a questo accordo richiede il voto dei delegati del gruppo di lavoro "
-"corrispondente. Affinché le modifiche siano accettate, almeno 2/3 delle alleanze devono "
-"essere d'accordo. La versione pubblicata sarà quindi aggiornata ed entrerà in vigore "
-"immediatamente o con la data di scadenza definita."
+"Qualsiasi modifica a questo accordo richiede il voto dei delegati del gruppo di lavoro corrispondente. Affinché le modifiche siano accettate, "
+"almeno 2/3 delle alleanze devono essere d'accordo. La versione pubblicata sarà quindi aggiornata ed entrerà in vigore immediatamente o con la "
+"data di scadenza definita."
 
 #. type: Title ##
 #: content/agreements/horses/index.en.md:52
@@ -306,3 +238,50 @@ msgstr ""
 "|------------|---------|--------------------------|\n"
 "| 2025-02-06 | 1.0     | Initial version          |\n"
 "| 2025-02-09 | 1.0.1   | Added French translation |\n"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/agreements/_index.en.md:1
+#, no-wrap
+msgid "Agreements"
+msgstr "Accordi"
+
+#. type: Plain text
+#: content/agreements/_index.en.md:12
+msgid "In this section all known and well-writen agreements are collected."
+msgstr "In questa sezione sono raccolti tutti gli accordi noti e ben scritti."
+
+#. type: Plain text
+#: content/agreements/_index.en.md:13
+msgid "You should check regularly for updates as the agreements might change."
+msgstr "Si consiglia di controllare regolarmente gli aggiornamenti, poiché gli accordi potrebbero cambiare."
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/_index.en.md:1
+#, no-wrap
+msgid "Home"
+msgstr "Home"
+
+#. type: Plain text
+#: content/_index.en.md:12
+msgid "Welcom to the page of the kingdom 10229!"
+msgstr "Benvenuti nella pagina del regno 10229!"
+
+#. type: Plain text
+#: content/_index.en.md:15
+msgid ""
+"On this site, we want to publish information about our kingdom that should be availabe to everyone.  This can be for example agreements "
+"between the alliances that were negotiated."
+msgstr ""
+"In questo sito vogliamo pubblicare informazioni sul nostro regno che dovrebbero essere disponibili a tutti.  Ad esempio gli accordi tra le "
+"alleanze che sono stati negoziati."
+
+#. type: Plain text
+#: content/_index.en.md:19
+msgid ""
+"This complete page is hosted on [GitHub](https://github.com/stormshot-k10229/stormshot-k10229.github.io).  If you find error or other "
+"problems, feel free to come there to report.  The content of the page is to be found in the [content folder](https://github.com/stormshot-"
+"k10229/stormshot-k10229.github.io/tree/main/content).  If you want to help with translation, feel free to come forward."
+msgstr ""
+"Questa pagina completa è ospitata su [GitHub](https://github.com/stormshot-k10229/stormshot-k10229.github.io).  Se trovate errori o altri "
+"problemi, sentitevi liberi di segnalarli.  Il contenuto della pagina si trova nella [cartella content](https://github.com/stormshot-k10229/"
+"stormshot-k10229.github.io/tree/main/content).  Se volete aiutare con la traduzione, sentitevi liberi di venire avanti."
