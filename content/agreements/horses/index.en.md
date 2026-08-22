@@ -34,14 +34,18 @@ Any player can send a **spy** to the strongholds of the players of foreign allia
 
 1. Killing of horses outside the dark forest is not restricted. Any player or alliance can kill them (solo or rally is allowed).
    1. Taking horses from other alliances' territory is allowed.
-1. Inside the forest, additional restrictions are in effect.
+1. The event is separated into solo and rally days.
+   Solo days are Saturday 0:00 to 23:59 UTC.
+   All other days are rally days.
+1. On solo days, no additional restrictions are in place (also for the dark forest) and anyone can kill any horse.
+1. Inside the forest, additional restrictions are in effect on rally days.
    1. Horses in the levels 8 and 9 are reserved for rallies by the alliances.
       1. Solo kills should be avoided and only done in time slots of low playing activity in the kingdom.
       1. If an alliance wants to run rallies against the horses, all solo efforts are to be stopped immediately. To notify of the intention to run rallies, the alliance should post PMs to any players doing solos. Additionally, the rally leader might send a spy to the stronghold of the player doing solos to make the window flash red.
       1. Once an alliance proclaims to do rallies, no player from either alliance should do solos. So, all players (also from the proclaiming alliance) are bound to rally-only playing.
    1. Horses in the levels 1 through 7 can be killed arbitrarily.
       1. Both solo and rallies are allowed.
-      1. However, for fair playing, the restrictions in 2.1 for higher-leveled horses should be obeyed on a voluntary basis for the lower-leveled horses as well.
+      1. However, for fair playing, the restrictions for higher-leveled horses of level 8/9 should be obeyed on a voluntary basis for the lower-leveled horses as well.
 
 ## Final acknowledgement
 
@@ -55,3 +59,4 @@ Any changes to this agreement require a vote of the delegates in the correspondi
 |------------|---------|--------------------------|
 | 2025-02-06 | 1.0     | Initial version          |
 | 2025-02-09 | 1.0.1   | Added French translation |
+|            |         | Add solo and rally days  |
