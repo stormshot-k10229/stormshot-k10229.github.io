@@ -3,13 +3,8 @@
 cd $(dirname $0)
 cd ../..
 
-get_base() {
-    echo $1 | sed 's/\.md$//g' | sed 's/.en$//'
-}
-
 create_config_line() {
     local file=$1
-    #local base=$(get_base $file)
 
     echo "[type: markdown] content/en/$file \$lang:content/\$lang/$file"
 }
