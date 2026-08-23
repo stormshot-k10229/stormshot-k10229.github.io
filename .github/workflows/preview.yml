@@ -8,9 +8,9 @@ on:
       - synchronize
       - closed
 
-concurrency: 
-    group: preview-${{ github.ref }}
-    cancel-in-progress: true
+concurrency:
+  group: preview-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   deploy-preview:
@@ -20,15 +20,20 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
-    
+
     steps:
+      - name: Install po4a
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y po4a
+
       - name: Checkout
         uses: actions/checkout@v6
       - name: Setup Node.js
         uses: actions/setup-node@v6.4.0
         with:
           node-version: 24
-    
+
       - name: Get URL of pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -49,11 +54,20 @@ jobs:
         if: github.event.action != 'closed' # You might want to skip the build if the PR has been closed
         run: |
           npm list --depth 1
-      
+
       - name: List installed scripts
         if: github.event.action != 'closed' # You might want to skip the build if the PR has been closed
         run: |
           ls -l node_modules/.bin
+
+      - name: Create the po4a config file
+        if: github.event.action != 'closed' # You might want to skip the build if the PR has been closed
+        run: |
+          ./po4a/scripts/create-po4a-config.sh
+      - name: Create the translated files
+        if: github.event.action != 'closed' # You might want to skip the build if the PR has been closed
+        run: |
+          ./po4a/scripts/run-po4a.sh
 
       - name: Build preview
         if: github.event.action != 'closed' # You might want to skip the build if the PR has been closed
@@ -67,4 +81,3 @@ jobs:
         uses: rossjrw/pr-preview-action@v1
         with:
           source-dir: ./public/
-

@@ -30,6 +30,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Install po4a
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y po4a
+
       - name: Checkout
         uses: actions/checkout@v6
       - name: Setup Node.js
@@ -43,7 +48,7 @@ jobs:
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
-      
+
       - name: Install dependencies
         run: npm ci
 
@@ -57,7 +62,14 @@ jobs:
             gh api "repos/$GITHUB_REPOSITORY/pages" --jq ".html_url"  | sed 's,/*$,,'
             echo EOF
           } >> "$GITHUB_OUTPUT"
-      
+
+      - name: Create the po4a config file
+        run: |
+          ./po4a/scripts/create-po4a-config.sh
+      - name: Create the translated files
+        run: |
+          ./po4a/scripts/run-po4a.sh
+
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
@@ -67,11 +79,10 @@ jobs:
           npm run build -- \
             --gc \
             --baseURL "${{ steps.url.outputs.URL }}/"
-      
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: ./public
           force: false
           clean-exclude: pr-preview/
-
