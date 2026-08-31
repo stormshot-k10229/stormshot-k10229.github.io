@@ -1,10 +1,18 @@
 ---
-date: '2025-02-07T22:14:23+01:00'
+date: "2025-02-07T22:14:23+01:00"
 draft: false
-title: 'Lost Revenants - Horses'
+title: "Lost Revenants - Horses"
 summary: |
-    This agreement describes what is allowed in the lost revenant event.
-    Some targets are free for anyone to hunt while others are not.
+  This agreement describes what is allowed in the lost revenant event.
+  Some targets are free for anyone to hunt while others are not.
+
+params:
+  toc: false
+
+menu:
+  main:
+    name: Horses
+    parent: agreements
 ---
 
 ![Screenshot of some horses](Horses.png)
@@ -56,7 +64,7 @@ Any changes to this agreement require a vote of the delegates in the correspondi
 ## Changelog
 
 | Date       | Version | Changes                  |
-|------------|---------|--------------------------|
+| ---------- | ------- | ------------------------ |
 | 2025-02-06 | 1.0     | Initial version          |
 | 2025-02-09 | 1.0.1   | Added French translation |
 |            |         | Add solo and rally days  |
