@@ -6,9 +6,6 @@ summary: |
   This agreement describes what is allowed in the lost revenant event.
   Some targets are free for anyone to hunt while others are not.
 
-params:
-  toc: false
-
 menu:
   main:
     name: Horses
