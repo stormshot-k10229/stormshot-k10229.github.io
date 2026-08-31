@@ -29,6 +29,8 @@ Params:
   commit: false
   hideAuthor: true
 
+  toc: false
+
 markup:
   goldmark:
     renderHooks:

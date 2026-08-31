@@ -3,9 +3,6 @@ date: "2025-02-07T22:10:43+01:00"
 draft: false
 title: "Kingdom Rules"
 
-build:
-  list: always
-
 menus:
   main:
     weight: 10
