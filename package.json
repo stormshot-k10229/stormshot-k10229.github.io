@@ -23,7 +23,7 @@
     "hugo-extended": "^0.164.0"
   },
   "devDependencies": {
-    "sass-embedded": "^1.86.3"
+    "sass-embedded": "^1.104.0"
   },
   "overrides": {
     "sass-embedded-all-unknown": "0.0.0-masked"
