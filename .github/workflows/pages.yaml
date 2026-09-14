@@ -41,6 +41,11 @@ jobs:
         uses: actions/setup-node@v7.0.0
         with:
           node-version: 24
+
+      # Dieser Schritt löst das Problem, dass Dependabot eine veraltete Version nutzt
+      - name: Downgrade npm temporarily for Dependabot compatibility
+        run: npm install -g npm@10.9.2
+      
       - name: Cache NPM dependencies
         uses: actions/cache@v6
         with:
@@ -51,6 +56,12 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+
+      - name: Link Sass Embedded binary for Hugo
+        if: github.event.action != 'closed'
+        run: |
+          ln -sf ../sass-embedded/dist/bin/sass.js node_modules/.bin/sass
+          chmod +x node_modules/.bin/sass
 
       - name: Get URL of pages
         env:
