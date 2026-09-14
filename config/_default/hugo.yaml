@@ -14,8 +14,8 @@ languages:
     contentDir: content/ru
   # jp:
   #   contentDir: content/jp
-  # de:
-  #   contentDir: content/de
+  de:
+    contentDir: content/de
 title: Stormshot - Kingdom 10229
 # enableGitInfo: true
 
