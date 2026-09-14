@@ -34,6 +34,10 @@ jobs:
         with:
           node-version: 24
 
+      # Dieser Schritt löst das Problem, dass Dependabot eine veraltete Version nutzt
+      - name: Downgrade npm temporarily for Dependabot compatibility
+        run: npm install -g npm@10.9.2
+
       - name: Get URL of pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
