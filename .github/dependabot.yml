@@ -9,6 +9,20 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
+    groups:
+      hugo-isolated:
+        patterns:
+          - "hugo-extended"
+
+      sass-embedded-group:
+        patterns:
+          - "sass-embedded*"
+
+      minor-and-patch-updates:
+        update-types:
+          - "minor"
+          - "patch"
+
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
