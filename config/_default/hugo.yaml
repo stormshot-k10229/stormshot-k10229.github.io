@@ -14,8 +14,8 @@ languages:
     contentDir: content/ru
   # jp:
   #   contentDir: content/jp
-  # de:
-  #   contentDir: content/de
+  de:
+    contentDir: content/de
 title: Stormshot - Kingdom 10229
 # enableGitInfo: true
 
@@ -28,6 +28,8 @@ Params:
   dateFormat: "2006-01-02"
   commit: false
   hideAuthor: true
+
+  toc: false
 
 markup:
   goldmark:
