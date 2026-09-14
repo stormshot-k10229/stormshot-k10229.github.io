@@ -83,5 +83,5 @@ Any changes to this agreement require a vote of the delegates in the correspondi
 | ---------- | ------- | ------------------------ |
 | 2025-02-06 | 1.0     | Initial version          |
 | 2025-02-09 | 1.0.1   | Added French translation |
-|            |         | Add solo and rally days  |
+| 2026-08-26 | 1.0.2   | Add solo and rally days  |
 |            |         | Restructure text         |
