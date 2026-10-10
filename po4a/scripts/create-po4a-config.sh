@@ -23,9 +23,8 @@ create_config() {
 
 [type: yaml] i18n/en.yml \$lang:i18n/\$lang.yml
 
-# [type: markdown] content/_index.en.md $lang:content/_index.$lang.md
-# [type: markdown] content/agreements/_index.en.md $lang:content/agreements/_index.$lang.md
-# [type: markdown] content/agreements/horses/index.en.md $lang:content/agreements/horses/index.$lang.md
+# Hugo Configuration files
+[type: yaml] config/_default/params.en.yaml \$lang:config/_default/params.\$lang.yaml
 
 EOF
     cd content/en
