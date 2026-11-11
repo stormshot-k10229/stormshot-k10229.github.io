@@ -39,9 +39,10 @@ Consider this as a glossary to simplify the text and enhance its readability.
 ### 3. Time schedule -- rally days and solo days
 
 1. The event is separated into solo and rally days.
-   Solo days are Saturday 0:00 to 23:59 UTC.
+   Solo days are Friday 0:00 to Saturday 23:59 UTC.
    All other days are rally days.
 1. On solo days, no additional restrictions are in place (also for the dark forest) and anyone can kill any horse.
+   1. Bilateral agreements in the kingdom chat or via PM, especially with smaller estates from foreign alliance, are encouraged.
 1. On rally days, additional restrictions are in place for the horses [levels 8/9].
    1. Solo kills should be avoided and only done in time slots of low playing activity in the kingdom.
    1. If an alliance wants to run rallies against the horses, all solo efforts are to be stopped immediately.
