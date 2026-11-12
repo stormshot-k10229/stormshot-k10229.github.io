@@ -81,3 +81,5 @@ Any player can send a **spy** to the strongholds of the players of foreign allia
 | 2025-02-09 | 1.0.1   | Added French translation |
 | 2026-08-26 | 1.0.2   | Add solo and rally days  |
 | 2026-09-14 | 1.0.3   | Restructure text         |
+|            |         | Update rally/solo times  |
+
