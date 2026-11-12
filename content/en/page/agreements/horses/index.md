@@ -17,6 +17,12 @@ menu:
 There are some definitions and explanations below.
 Consider this as a glossary to simplify the text and enhance its readability.
 
+## TL;DR
+
+Solo attacks on the horses are on Friday and Saturday as well as during the KvK fight.
+On Sundays, rallies have priority.
+Keep talking and have fun!
+
 ## Claims
 
 ### 1. Level of Horses
@@ -36,13 +42,15 @@ Consider this as a glossary to simplify the text and enhance its readability.
    1. If the other alliance is capable of killing the horse, it must not be taken from the foreign territory.
 1. Killing of horses outside the dark forest and outside foreign alliance territory is not restricted. Any player or alliance can kill them (solo or rally is allowed).
 
-### 3. Time schedule -- rally days and solo days
+### 3. Time schedule -- rally and solo times
 
-1. The event is separated into solo and rally days.
-   Solo days are Saturday 0:00 to 23:59 UTC.
-   All other days are rally days.
-1. On solo days, no additional restrictions are in place (also for the dark forest) and anyone can kill any horse.
-1. On rally days, additional restrictions are in place for the horses [levels 8/9].
+1. The event is separated into solo and rally times.
+   1. Friday 0:00 to Saturday 23:59 UTC is considered solo time.
+   1. The time window during the KvK fight is considered as solo time.
+   1. Everything else is rally time.
+1. During solo times, no additional restrictions are in place (also for the dark forest) and anyone can kill any horse.
+   1. Bilateral agreements in the kingdom chat or via PM, especially with smaller estates from foreign alliance, are encouraged.
+1. During rally times, additional restrictions are in place for the horses [levels 8/9].
    1. Solo kills should be avoided and only done in time slots of low playing activity in the kingdom.
    1. If an alliance wants to run rallies against the horses, all solo efforts are to be stopped immediately.
       To notify of the intention to run rallies, the alliance should post PMs to any players doing solos.
@@ -79,3 +87,5 @@ Any player can send a **spy** to the strongholds of the players of foreign allia
 | 2025-02-09 | 1.0.1   | Added French translation |
 | 2026-08-26 | 1.0.2   | Add solo and rally days  |
 | 2026-09-14 | 1.0.3   | Restructure text         |
+|            |         | Update rally/solo times  |
+
