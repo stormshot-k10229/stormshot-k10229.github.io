@@ -17,6 +17,12 @@ menu:
 There are some definitions and explanations below.
 Consider this as a glossary to simplify the text and enhance its readability.
 
+## TL;DR
+
+Solo attacks on the horses are on Friday and Saturday as well as during the KvK fight.
+On Sundays, rallies have priority.
+Keep talking and have fun!
+
 ## Claims
 
 ### 1. Level of Horses
