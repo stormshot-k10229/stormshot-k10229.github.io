@@ -42,7 +42,7 @@ Keep talking and have fun!
    1. If the other alliance is capable of killing the horse, it must not be taken from the foreign territory.
 1. Killing of horses outside the dark forest and outside foreign alliance territory is not restricted. Any player or alliance can kill them (solo or rally is allowed).
 
-### 3. Time schedule -- rally days and solo days
+### 3. Time schedule -- rally and solo times
 
 1. The event is separated into solo and rally times.
    1. Friday 0:00 to Saturday 23:59 UTC is considered solo time.
