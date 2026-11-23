@@ -21,10 +21,10 @@
   },
   "homepage": "https://github.com/stormshot-k10229/stormshot-k10229.github.io#readme",
   "dependencies": {
-    "hugo-extended": "^0.169.0"
+    "hugo-extended": "^0.170.0"
   },
   "devDependencies": {
-    "sass-embedded": "^1.108.0"
+    "sass-embedded": "^1.108.2"
   },
   "overrides": {
     "sass-embedded-all-unknown": "0.0.0-masked"
